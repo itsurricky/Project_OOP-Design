@@ -1,4 +1,4 @@
-Technical using :
+Technical using 
 
     Backend : 
 
@@ -13,6 +13,8 @@ Technical using :
     ReactJs
     
     Bootstrap
+    
+    Figma
 
 Requirement
 
