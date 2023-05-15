@@ -14,7 +14,9 @@ Technical using
     
     Bootstrap
     
-    Figma
+UI/UX Design
+     
+     Figma : https://www.figma.com/file/hdZi5eIMRaNKKZDWygiM6h/Video-Manament?type=design&node-id=0-1&t=8uaXOHHdLDq6Ymf9-0
 
 Requirement
 
