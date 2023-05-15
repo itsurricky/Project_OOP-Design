@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\video_editing_api",
+    "\\video_editing_api\\Controllers",
+    "\\video_editing_api\\Service",
+    "\\video_editing_api\\Service\\Video"
+  ],
+  "SelectedNode": "\\video_editing_api\\Controllers\\VideoController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,26 @@
+.Input-Name{
+    
+    .Text-Input-Name{
+        background: white;
+        border-radius: 20px;
+        .Start-Input-Name{
+            background: #3D3476;
+            color: white;
+        }
+    }
+}
+.input-select{
+    .text-label{
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .select-type{
+        width: 100px;
+        height: 40px;
+        margin-left: 20px;
+        background: #FFFFFF;
+        border-radius: 20px;
+    }
+}
+

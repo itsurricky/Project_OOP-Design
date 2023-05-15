@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+  app:
+    container_name: video-editing
+    image: video-editing
+    build:
+      context: ./fe-video-editing
+      dockerfile: Dockerfile
+    ports:
+      - "5000:80"
+  api:
+    container_name: video-editing-api
+    build:
+      context: ./be-video-editing
+      dockerfile: video_editing_api\Dockerfile
+    ports:
+      - "8080:80"

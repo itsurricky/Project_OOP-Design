@@ -1,0 +1,266 @@
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\appsettings.json
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\video_editing_api.exe
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\video_editing_api.deps.json
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\video_editing_api.runtimeconfig.json
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\video_editing_api.runtimeconfig.dev.json
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\video_editing_api.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\ref\video_editing_api.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\video_editing_api.pdb
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\DnsClient.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\MongoDbGenericRepository.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\Snappier.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\video_editing_api.csproj.AssemblyReference.cache
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\video_editing_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\video_editing_api.AssemblyInfoInputs.cache
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\video_editing_api.AssemblyInfo.cs
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\video_editing_api.csproj.CoreCompileInputs.cache
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\video_editing_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\video_editing_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\staticwebassets\video_editing_api.StaticWebAssets.Manifest.cache
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\staticwebassets\video_editing_api.StaticWebAssets.xml
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\scopedcss\bundle\video_editing_api.styles.css
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\video_editing_api.RazorTargetAssemblyInfo.cache
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\video_editing_api.csproj.CopyComplete
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\video_editing_api.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\ref\video_editing_api.dll
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\video_editing_api.pdb
+C:\Users\truon\OneDrive\Máy tính\video_editing_api\video_editing_api\obj\Debug\net5.0\video_editing_api.genruntimeconfig.cache
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\appsettings.Development.json
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\appsettings.json
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.exe
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.deps.json
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.runtimeconfig.json
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.runtimeconfig.dev.json
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\ref\video_editing_api.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.pdb
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\AspNetCore.Identity.MongoDbCore.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\AWSSDK.Core.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\DnsClient.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDbGenericRepository.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\SharpCompress.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\Snappier.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\ZstdSharp.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.csproj.AssemblyReference.cache
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.AssemblyInfoInputs.cache
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.AssemblyInfo.cs
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.csproj.CoreCompileInputs.cache
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\video_editing_api.StaticWebAssets.Manifest.cache
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\video_editing_api.StaticWebAssets.xml
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\scopedcss\bundle\video_editing_api.styles.css
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.RazorTargetAssemblyInfo.cache
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.csproj.CopyComplete
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\ref\video_editing_api.dll
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.pdb
+D:\GitHub\DoAn_CNPM\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.genruntimeconfig.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\appsettings.json
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.StaticWebAssets.xml
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.exe
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.deps.json
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.runtimeconfig.json
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.runtimeconfig.dev.json
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.pdb
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\DnsClient.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDbGenericRepository.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\Snappier.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.AssemblyInfo.cs
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\scopedcss\bundle\video_editing_api.styles.css
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\video_editing_api.StaticWebAssets.Manifest.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\video_editing_api.StaticWebAssets.Pack.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\msbuild.video_editing_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\msbuild.build.video_editing_api.props
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.video_editing_api.props
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.video_editing_api.props
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.RazorTargetAssemblyInfo.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.csproj.CopyComplete
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\refint\video_editing_api.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.pdb
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.genruntimeconfig.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api\obj\Debug\net5.0\ref\video_editing_api.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\appsettings.json
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.StaticWebAssets.xml
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.exe
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.deps.json
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.runtimeconfig.json
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.runtimeconfig.dev.json
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.pdb
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\DnsClient.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDbGenericRepository.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\Snappier.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.AssemblyInfo.cs
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\scopedcss\bundle\video_editing_api.styles.css
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\video_editing_api.StaticWebAssets.Manifest.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\video_editing_api.StaticWebAssets.Pack.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\msbuild.video_editing_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\msbuild.build.video_editing_api.props
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.video_editing_api.props
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.video_editing_api.props
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.RazorTargetAssemblyInfo.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.csproj.CopyComplete
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\refint\video_editing_api.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.pdb
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.genruntimeconfig.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\obj\Debug\net5.0\ref\video_editing_api.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPMNew\be-video-editing\video_editing_api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\appsettings.json
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.StaticWebAssets.xml
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.exe
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.deps.json
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.runtimeconfig.json
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.runtimeconfig.dev.json
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\video_editing_api.pdb
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\DnsClient.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\MongoDbGenericRepository.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\Snappier.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.AssemblyInfo.cs
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\scopedcss\bundle\video_editing_api.styles.css
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\video_editing_api.StaticWebAssets.Manifest.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\video_editing_api.StaticWebAssets.Pack.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\msbuild.video_editing_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\msbuild.build.video_editing_api.props
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.video_editing_api.props
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.video_editing_api.props
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.RazorTargetAssemblyInfo.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.csproj.CopyComplete
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\refint\video_editing_api.dll
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.pdb
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\video_editing_api.genruntimeconfig.cache
+C:\Users\ACER\Documents\GitHub\DoAn_CNPNew2\be-video-editing\video_editing_api\obj\Debug\net5.0\ref\video_editing_api.dll

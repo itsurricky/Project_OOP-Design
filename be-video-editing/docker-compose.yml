@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  video_editing_api:
+    image: ${DOCKER_REGISTRY-}videoeditingapi
+    build:
+      context: .
+      dockerfile: video_editing_api\Dockerfile

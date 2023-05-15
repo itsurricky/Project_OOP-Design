@@ -1,0 +1,18 @@
+name: dockercompose14602816134128772576
+services:
+  video_editing_api:
+    build:
+      context: C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing
+      dockerfile: video_editing_api\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: videoeditingapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose14602816134128772576_default

@@ -1,0 +1,80 @@
+name: dockercompose14602816134128772576
+services:
+  video_editing_api:
+    build:
+      context: C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing
+      dockerfile: video_editing_api\Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: video_editing_api
+      target: base
+    container_name: video_editing_api
+    entrypoint:
+    - C:\remote_debugger\x64\msvsmon.exe
+    - /noauth
+    - /anyuser
+    - /silent
+    - /nostatus
+    - /noclrwarn
+    - /nosecuritywarn
+    - /nofirewallwarn
+    - /nowowwarn
+    - /timeout:2147483646
+    - /LogDebuggeeOutputToStdOut
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      DOTNET_USE_POLLING_FILE_WATCHER: "1"
+      NUGET_FALLBACK_PACKAGES: ""
+      NUGET_PACKAGES: C:\.nuget\packages
+    image: videoeditingapi:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath c:\.nuget\packages  "C:\app\bin\Debug\net5.0\video_editing_api.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: C:\remote_debugger\x64\utils\KillProcess.exe
+        dotnet.exe
+      com.microsoft.visualstudio.debuggee.program: '"C:\Program Files\dotnet\dotnet.exe"'
+      com.microsoft.visualstudio.debuggee.workingdirectory: C:\app
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing\video_editing_api
+      target: C:\app
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\ACER\Documents\GitHub\DoAn_CNPM3\be-video-editing
+      target: C:\src
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\ACER\onecoremsvsmon\17.5.20124.2323
+      target: C:\remote_debugger
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\ACER\.nuget\packages\
+      target: c:\.nuget\packages
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\ACER\AppData\Roaming/ASP.NET/Https
+      target: C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\ACER\AppData\Roaming/Microsoft/UserSecrets
+      target: C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets
+      read_only: true
+      bind:
+        create_host_path: true
+networks:
+  default:
+    name: dockercompose14602816134128772576_default
