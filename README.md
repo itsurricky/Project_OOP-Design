@@ -40,9 +40,10 @@ Running the App
     
     
 Screenshot : 
-    Form Login and Register ![image](https://github.com/itsurricky/Project_OOP-Design/assets/86105755/dce2bc39-2263-4baf-834e-0af28ac2f2fa) ![image](https://github.com/itsurricky/Project_OOP-Design/assets/86105755/ffa302c3-bbef-4590-b7f9-d05f9e122ba7)
+    Form Login and Register ![image](https://github.com/itsurricky/Project_OOP-Design/assets/86105755/dce2bc39-2263-4baf-834e-0af28ac2f2fa)
+        ![image](https://github.com/itsurricky/Project_OOP-Design/assets/86105755/ffa302c3-bbef-4590-b7f9-d05f9e122ba7)
 
-    Home Page : ![image](https://github.com/itsurricky/Project_OOP-Design/assets/86105755/2fd23f41-afc3-4141-81f0-18d2225307f4)
+   Home Page :![image](https://github.com/itsurricky/Project_OOP-Design/assets/86105755/2fd23f41-afc3-4141-81f0-18d2225307f4)
     Upload Page : ![image](https://github.com/itsurricky/Project_OOP-Design/assets/86105755/cbdab29d-5f66-40c7-bfe5-7aaa80cfea06)
     Sort Page : ![image](https://github.com/itsurricky/Project_OOP-Design/assets/86105755/80bd601d-02d7-4523-8c3f-f13825552b8b)
 
