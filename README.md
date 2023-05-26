@@ -41,7 +41,8 @@ Running the App
     
 Screenshot : 
    Form Login and Register: 
-    ![image](https://github.com/itsurricky/Project_OOP-Design/assets/86105755/dce2bc39-2263-4baf-834e-0af28ac2f2fa)
+   
+   ![image](https://github.com/itsurricky/Project_OOP-Design/assets/86105755/dce2bc39-2263-4baf-834e-0af28ac2f2fa)
     ![image](https://github.com/itsurricky/Project_OOP-Design/assets/86105755/ffa302c3-bbef-4590-b7f9-d05f9e122ba7)
 
    Home Page :
